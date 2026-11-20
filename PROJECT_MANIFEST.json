@@ -1,0 +1,17 @@
+{
+  "project": "Clinic Visit Sorter",
+  "api": "Groq",
+  "model_default": "openai/gpt-oss-20b",
+  "input": "visits.csv",
+  "outputs": [
+    "nurse_queue.csv",
+    "summary.txt"
+  ],
+  "run_order": [
+    "py -m pip install -r requirements.txt",
+    "copy .env.example .env",
+    "py main.py",
+    "py evaluate.py",
+    "py red_team.py"
+  ]
+}

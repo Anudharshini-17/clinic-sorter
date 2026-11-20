@@ -1,0 +1,57 @@
+CLINIC VISIT SORTER - WINDOWS STEPS
+
+1. Put all project files in one folder, for example:
+   C:\Users\Admin\Desktop\clinic_visit_sorter
+
+2. Open Command Prompt.
+
+3. Go to the folder:
+   cd C:\Users\Admin\Desktop\clinic_visit_sorter
+
+4. Install packages:
+   py -m pip install -r requirements.txt
+
+5. Create .env:
+   copy .env.example .env
+
+6. Open .env:
+   notepad .env
+
+7. Replace:
+   PASTE_YOUR_GROQ_API_KEY_HERE
+
+   with your actual Groq API key.
+
+8. Save and close Notepad.
+
+9. Run the main project:
+   py main.py
+
+10. Check that these appear:
+    nurse_queue.csv
+    summary.txt
+
+11. Run evaluation:
+    py evaluate.py
+
+12. Run red-team tests:
+    py red_team.py
+
+13. If you get:
+    ERROR: GROQ_API_KEY is not set
+
+    check that the file is named exactly:
+    .env
+
+    and not:
+    .env.txt
+
+14. If you get a package error:
+    py -m pip install -r requirements.txt
+
+15. Never paste your real API key into:
+    main.py
+    README.md
+    GitHub
+    screenshots
+    chat messages

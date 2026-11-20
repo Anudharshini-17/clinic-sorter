@@ -1,0 +1,24 @@
+============================================================
+CLINIC VISIT SORTER - SUMMARY
+============================================================
+
+Total visits: 24
+
+CATEGORY COUNTS
+----------------
+pain: 4
+other: 4
+injury: 3
+fever_cold: 6
+stomach: 4
+allergy: 3
+
+PRIORITY COUNTS
+----------------
+see_now: 3
+today: 18
+routine: 3
+
+SOURCE COUNTS
+----------------
+groq: 24

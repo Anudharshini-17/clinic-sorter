@@ -1,0 +1,25 @@
+id,time,note,category,priority,summary
+V04,09:31,Chest pain and difficulty breathing after climbing stairs,pain,see_now,Chest pain and difficulty breathing after climbing stairs
+V16,11:12,Nenju vali and moochu vidamudiyala,other,see_now,Student reports unspecified symptoms.
+V17,11:20,I feel dizzy and almost fainted,other,see_now,Student reports dizziness and near fainting
+V01,09:05,Twisted my ankle playing football. It is swollen and I can't walk properly,injury,today,"Student twisted ankle, swollen, difficulty walking"
+V02,09:12,Feeling feverish and tired since last night,fever_cold,today,Student reports feeling feverish and tired since last night.
+V03,09:20,Feeling a little cold and sneezing,fever_cold,today,Student reports feeling cold and sneezing.
+V05,09:38,Stomach pain since morning,stomach,today,Student reports stomach pain since morning.
+V07,09:51,I fell down and my wrist hurts and is swollen,injury,today,"Student fell, wrist hurt and swollen"
+V08,10:02,Loose motion and stomach discomfort,stomach,today,Loose motion and stomach discomfort
+V10,10:18,Headache and mild cold,fever_cold,today,Headache and mild cold symptoms
+V11,10:25,My lips are swelling and I feel strange,allergy,today,Lips swelling and feeling strange
+V12,10:34,Thalai vali romba since morning,pain,today,Severe headache reported since morning
+V13,10:42,I have cough and sneezing,fever_cold,today,Student reports cough and sneezing.
+V14,10:50,My stomach hurts after eating,stomach,today,Student reports stomach pain after eating
+V15,11:03,Back pain after carrying a heavy bag,pain,today,Back pain after carrying a heavy bag
+V19,11:37,Fever and body pain,fever_cold,today,Student reports fever and body pain.
+V20,11:45,Cut my finger and it is bleeding a little,injury,today,Student cut finger with minor bleeding
+V21,11:53,My face is swelling,allergy,today,Student reports facial swelling
+V22,12:05,Leg pain after sports practice,pain,today,Leg pain after sports practice
+V23,12:14,Sneezing and runny nose,fever_cold,today,Sneezing and runny nose
+V24,12:22,Feeling nauseous with stomach discomfort,stomach,today,Student reports nausea and stomach discomfort
+V06,09:44,Need a medical certificate for missing yesterday's class,other,routine,Request for medical certificate.
+V09,10:10,Small itchy rash on my arm,allergy,routine,Student reports a small itchy rash on the arm.
+V18,11:29,I need a note for yesterday's absence,other,routine,Request for a note regarding yesterday's absence
